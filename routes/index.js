@@ -5,6 +5,6 @@ router.get('/', (req, res)=>{
     res.render('index')
 })
 
-console.log("testetstsetsetsedsdfsdfsdftse")
+console.log(haha)
 
 module.exports = router
